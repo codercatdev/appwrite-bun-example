@@ -1,0 +1,16 @@
+{
+  "name": "appwrite-bun-example",
+  "version": "0.0.1",
+  "description": "Example of Appwrite using Bun",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun run index.js"
+  },
+  "author": "Alex Patterson <alex@codingcat.dev> (https://codingcat.dev/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-appwrite": "^7.0.0",
+    "dotenv": "latest"
+  }
+}
